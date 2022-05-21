@@ -5,15 +5,14 @@
 
 ---
 
-## Hi there, I'm Elie.
+## Hi there, I'm Elie. 💪🏿 Javascript enthusiast.Compiler warning message hunter.
 
-### 💪🏿 Javascript enthusiast.Compiler warning message hunter.
 
 I enjoy creating things and have a passion for programming. You can find me building cool stuff  ! I also love to discover new fields and travel as it helps to clear my mind.
 
 ---
 
-## 👨🏿 About Me :
+## 👨🏿 About Me
 
 * 🏢 I am currently working for a company
 * 🌱 I am learning React Native and Next.Js
@@ -22,7 +21,9 @@ I enjoy creating things and have a passion for programming. You can find me buil
 
 ---
 
-##  Languages and Tools :
+##  Languages and Tools
+
+I use usually these languages, frameworks, and tools when I work...
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javacript" width="40" height="40"/>&nbsp;
@@ -38,7 +39,7 @@ I enjoy creating things and have a passion for programming. You can find me buil
 
 ---
 
-## 🔥 My Stats :
+## 🔥 My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bashlor&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
