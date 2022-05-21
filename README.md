@@ -46,7 +46,8 @@ I usually use these languages, frameworks, and tools when I work...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashlor)](https://github.com/anuraghazra/github-readme-stats)
 
-<strong>Total<strong>
+<strong>Total<strong> </br>
 [![wakatime](https://wakatime.com/badge/user/a13af280-b6e1-4661-b63c-dca4fcc268da.svg)](https://wakatime.com/@a13af280-b6e1-4661-b63c-dca4fcc268da)
 
+<strong>This week<strong> </br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bashlor)](https://github.com/anuraghazra/github-readme-stats)
