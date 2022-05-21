@@ -2,20 +2,22 @@
 <div>
 <img src="https://raw.githubusercontent.com/bashlor/bashlor/703c4951025249a44b6f3bcc4c7a9057c5a23c32/banner.png" />
 </div>
+
 ---
 
 ## Hi there, I'm Elie.
 
-### :flexed_biceps_dark_skin_tone: Javascript enthusiast.Compiler warning message hunter.
+### 💪🏿 Javascript enthusiast.Compiler warning message hunter.
 
 I enjoy creating things and have a passion for programming. You can find me building cool stuff  ! I also love to discover new fields and travel as it helps to clear my mind.
 
+---
 
-## :man_dark_skin_tone: About Me :
+## 👨🏿 About Me :
 
-* :office: I am currently working for a company.
-* :seedling: I am learning React Native and Next.Js.
-* :dart: When I am not coding, I am simply doing something else.
+* 🏢 I am currently working for a company
+* 🌱 I am learning React Native and Next.Js
+* 🎳 When I am not coding, I am simply doing something else
 
 
 ---
@@ -36,7 +38,7 @@ I enjoy creating things and have a passion for programming. You can find me buil
 
 ---
 
-## :fire: My Stats :
+## 🔥 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bashlor&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
