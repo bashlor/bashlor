@@ -5,7 +5,8 @@
 
 ---
 
-## Hi there, I'm Elie. A Javascript enthusiast, and a compiler warning message hunter.
+## Hi there, I'm Elie.
+A Javascript enthusiast, and a compiler warning message hunter.
 
 
 I enjoy creating things and have a passion for programming. You can find me building cool stuff  ! I also love to discover new fields and travel as it helps to clear my mind.
