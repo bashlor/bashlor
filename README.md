@@ -5,7 +5,7 @@
 
 ---
 
-## Hi there, I'm Elie. 💪🏿 Javascript enthusiast.Compiler warning message hunter.
+## Hi there, I'm Elie. A Javascript enthusiast, and a compiler warning message hunter.
 
 
 I enjoy creating things and have a passion for programming. You can find me building cool stuff  ! I also love to discover new fields and travel as it helps to clear my mind.
@@ -23,7 +23,7 @@ I enjoy creating things and have a passion for programming. You can find me buil
 
 ##  Languages and Tools
 
-I use usually these languages, frameworks, and tools when I work...
+I usually use these languages, frameworks, and tools when I work...
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javacript" width="40" height="40"/>&nbsp;
@@ -45,5 +45,9 @@ I use usually these languages, frameworks, and tools when I work...
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashlor)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![wakatime](https://wakatime.com/badge/user/a13af280-b6e1-4661-b63c-dca4fcc268da.svg)]
+(https://wakatime.com/@a13af280-b6e1-4661-b63c-dca4fcc268da)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bashlor)](https://github.com/anuraghazra/github-readme-stats)
