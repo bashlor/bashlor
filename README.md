@@ -1,52 +1,20 @@
+<h1 align="center">Hi 👋, I'm Elie</h1>
+<h3 align="center">A JS back-end developper</h3>
 
-<div>
-<img src="https://raw.githubusercontent.com/bashlor/bashlor/703c4951025249a44b6f3bcc4c7a9057c5a23c32/banner.png" />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bashlor" alt="bashlor" /></a> </p>
 
----
+- 🌱 I’m currently learning **Rust**
 
-## Hi there, I'm Elie.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-I enjoy creating things and have a passion for programming. You can find me building cool stuff  ! I also love to discover new fields and travel as it helps to clear my mind.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bashlor&show_icons=true&locale=en&layout=compact" alt="bashlor" /></p>
 
-## 👨🏿 About Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashlor&show_icons=true&locale=en" alt="bashlor" /></p>
 
-* 🏢 I am currently working for a company
-* 🌱 I am learning React Native and Next.Js
-* 🎳 When I am not coding, I am simply doing something else
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashlor&" alt="bashlor" /></p>
 
-
----
-
-##  Languages and Tools
-
-I usually use these languages, frameworks, and tools when I work...
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javacript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.Js" alt="Node.JS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-## 🔥 My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bashlor&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashlor&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
-<strong>Total<strong> </br>
-[![wakatime](https://wakatime.com/badge/user/a13af280-b6e1-4661-b63c-dca4fcc268da.svg)](https://wakatime.com/@a13af280-b6e1-4661-b63c-dca4fcc268da)
-
-<strong>This week<strong> </br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bashlor)](https://github.com/anuraghazra/github-readme-stats)
