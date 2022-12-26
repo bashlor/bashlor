@@ -3,8 +3,9 @@
 </div>  
   
 
+## About me
 ### <div align="center">
-I'm Elie, a full stack javascript developer with innovative project ideas, who doesn't like routine and new things. I can set a project up in the right path, plan forward and propose solutions. Hardworking, involved and determined 🚀</div>  
+I'm Elie, a backend javascript/node.js developer with innovative project ideas, who doesn't like routine and new things. I can set a project up in the right path, plan forward and propose solutions. Hardworking, involved and determined 🚀</div>  
   
 
 - 🔭 I’m currently working on a ingenious set of productivity tooling for grind addicts and monks.  
