@@ -8,13 +8,11 @@
 I'm Elie, a backend javascript/node.js developer with innovative project ideas, who doesn't like routine and new things. I can set a project up in the right path, plan forward and propose solutions. Hardworking, involved and determined 🚀</div>  
   
 
-- 🔭 I’m currently working on a ingenious set of productivity tooling for grind addicts and monks.  
-  
+- 🔭  Curious about everything.
 
-- 🌱 I’m currently learning Rust, and it's one of my favorite languages.  
+- 🌱 I’m currently learning Rust.
 
-
-- 🧪 There're repositories where I do experiments, don't be surprised ! 
+- 🧪 Love challenges and solving problems.
   
 
 <br/>  
