@@ -5,12 +5,12 @@
 
 ## About me
 ### <div align="center">
-I'm Elie, a backend javascript/node.js developer with innovative project ideas, who doesn't like routine and new things. I can set a project up in the right path, plan forward and propose solutions. Hardworking, involved and determined 🚀</div>  
+I'm Elie, a backend javascript/node.js developer who doesn't like routine and new things. I can set a project up in the right path, plan forward and propose solutions. Hardworking, involved and determined 🚀</div>  
   
 
 - 🔭  Curious about everything.
 
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Rust, and I'm keeping a close eye on Zig's progress.
 
 - 🧪 Love challenges and solving problems.
   
