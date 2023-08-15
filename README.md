@@ -19,6 +19,17 @@ Hello ! I'm Elie, a backend javascript/node.js developer who doesn't like routin
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
+```all_time
+From: 07 August 2023 - To: 14 August 2023
+
+TypeScript          9 hrs           >>>>>>>>>>>>>>>>>>>------   74.22 %
+JSON                1 hr 12 mins    >>-----------------------   09.95 %
+Markdown            34 mins         >------------------------   04.80 %
+YAML                20 mins         >------------------------   02.87 %
+JavaScript          17 mins         >------------------------   02.44 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🧪 My Skill Set
