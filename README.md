@@ -21,13 +21,13 @@ Hello ! I'm Elie, a backend javascript/node.js developer who doesn't like routin
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 29 April 2024 - To: 06 May 2024
+From: 02 May 2024 - To: 09 May 2024
 
-TypeScript       7 hrs 41 mins   ████████████████████▓░░░░   82.98 %
-CSS              58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-JSON             25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-TSConfig         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+TypeScript       19 hrs 51 mins  ████████████████████████░   96.29 %
+CSS              35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
