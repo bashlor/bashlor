@@ -21,7 +21,7 @@ Hello ! I'm Elie, a backend javascript/node.js developer who doesn't like routin
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 23 April 2025 - To: 30 April 2025
+From: 25 April 2025 - To: 02 May 2025
 
 No activity tracked
 ```
