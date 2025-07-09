@@ -21,7 +21,7 @@ Hello ! I'm Elie, a backend javascript/node.js developer who doesn't like routin
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 29 June 2025 - To: 06 July 2025
+From: 30 June 2025 - To: 07 July 2025
 
 TypeScript   9 hrs 7 mins    ███████████████████████░░   91.39 %
 JSON         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
