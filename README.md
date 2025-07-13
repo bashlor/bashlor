@@ -35,6 +35,17 @@ My path (including a challenging apprenticeship!) taught me resilience, autonomy
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```all_time
+From: 05 July 2025 - To: 12 July 2025
+
+TypeScript   3 hrs 11 mins   ██████████████████████▒░░   88.98 %
+Bash         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Rust         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Let’s connect
