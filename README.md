@@ -1,68 +1,53 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/bashlor/bashlor/master/res/github-header-image.png" align="center" style="width: 100%" />
-</div>
+# 👋 Hi there, I’m Elie!
 
-## 🔭 About me
+Welcome to my GitHub profile!
 
-### <div align="center">
+## Who am I?
 
-Hello ! I'm Elie, a backend javascript/node.js developer who doesn't like routine and new things. I can set a project up in the right path, plan forward and propose solutions. Hardworking, involved and determined 🚀</div>
+I'm a passionate software developer, always on a journey to learn and grow.  
+My path (including a challenging apprenticeship!) taught me resilience, autonomy, and a strong commitment to software quality. Today, I’m focused on **Domain-Driven Design** and software craftsmanship.
 
-- 🔭 Curious about everything.
+## What drives me
 
-- 🌱 I’m currently learning Rust, and I'm keeping a close eye on Golang.
+- **Learning:** Every experience — especially the tough ones — makes me a better developer.
+- **Sharing:** I enjoy talking about best practices, clean code, and using tech to empower people.
+- **Exploring:** Always curious about robust architectures, advanced testing, and healthy team cultures.
 
-- 🧪 Love challenges and solving problems.
+## Currently
 
-<br/>
+- Working with legacy code (learning to make the most of it!). Refactoring, testing, and documentation are my daily routine.
+- Deepening my skills in **DDD**, refactoring, and software architecture.
+- Actively building my network and open to new opportunities — especially internationally.
 
-## 📊 Weekly development breakdown
+## What I’m looking for
+
+- Joining a team with a real tech culture focused on continuous improvement.
+- Collaborating on meaningful, challenging projects.
+- Open to **freelancing** or entrepreneurship, in France or abroad.
+
+## Tech Stack
+
+- **Languages:** C# (.NET), TypeScript (Node.js), JavaScript
+- **Frameworks/Libraries:** ASP.NET Core, Node.js, Effect, React
+- **Database:** PostgreSQL
+- **Tools:** GitLab, CI/CD, unit testing, code analysis
+
+## WakaTime Stats
 
 <!--START_SECTION:waka-->
-
-```all_time
-From: 04 July 2025 - To: 11 July 2025
-
-TypeScript   8 hrs 28 mins   ███████████████████████░░   92.26 %
-JSON         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Bash         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Rust         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-```
-
 <!--END_SECTION:waka-->
 
-## 🧪 My Skill Set
+## Let’s connect
 
-<table><tr><td valign="top" width="33%">
+- 💬 Always happy to chat about DDD, refactoring, or clean code!
+- 🌱 Open to collaboration and feedback on my projects.
+- 🌍 Available for international opportunities and remote work.
 
-### Backend
+---
 
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
+👉 **Want to connect?**  
+Feel free to reach out here or on [LinkedIn](your-linkedin-link).
 
-</td><td valign="top" width="33%">
+---
 
-### DevOps
-
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-</div>
-
-</td></tr></table>
+*"You don’t become an expert overnight. Every experience counts — especially the tough ones."*
