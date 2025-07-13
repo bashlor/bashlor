@@ -13,12 +13,6 @@ My path (including a challenging apprenticeship!) taught me resilience, autonomy
 - **Sharing:** I enjoy talking about best practices, clean code, and using tech to empower people.
 - **Exploring:** Always curious about robust architectures, advanced testing, and healthy team cultures.
 
-## Currently
-
-- Working with legacy code (learning to make the most of it!). Refactoring, testing, and documentation are my daily routine.
-- Deepening my skills in **DDD**, refactoring, and software architecture.
-- Actively building my network and open to new opportunities — especially internationally.
-
 ## What I’m looking for
 
 - Joining a team with a real tech culture focused on continuous improvement.
