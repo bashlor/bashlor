@@ -31,7 +31,7 @@ My path (including a challenging apprenticeship!) taught me resilience, autonomy
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 15 July 2025 - To: 22 July 2025
+From: 16 July 2025 - To: 23 July 2025
 
 TypeScript   10 hrs 52 mins  ██████████████████████░░░   87.60 %
 JSON         50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
