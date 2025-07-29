@@ -31,13 +31,13 @@ My path (including a challenging apprenticeship!) taught me resilience, autonomy
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 July 2025 - To: 26 July 2025
+From: 20 July 2025 - To: 27 July 2025
 
-TypeScript   5 hrs 46 mins   ██████████████████████░░░   87.89 %
-JSON         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-jsonc        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-TSConfig     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+TypeScript   1 hr 59 mins    ███████████████████████▒░   93.20 %
+JSON         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+jsonc        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
