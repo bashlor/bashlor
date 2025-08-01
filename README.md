@@ -26,18 +26,6 @@ My path (including a challenging apprenticeship!) taught me resilience, autonomy
 - **Database:** PostgreSQL
 - **Tools:** GitLab, CI/CD, unit testing, code analysis
 
-## WakaTime Stats
-
-<!--START_SECTION:waka-->
-
-```all_time
-From: 23 July 2025 - To: 30 July 2025
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ## Let’s connect
 
 - 💬 Always happy to chat about DDD, refactoring, or clean code!
