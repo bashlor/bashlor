@@ -7,7 +7,7 @@ Welcome to my GitHub profile ! Here, I document my learning journey, side projec
 I’m a backend-leaning software developer with **3 years of experience** in .NET and Node.js ecosystems.  
 As an INTJ, I thrive on strategy, autonomy, and building systems that last. My interests gravitate towards **Domain-Driven Design**, Clean Architecture, and delivering maintainable solutions, especially in complex or “legacy-heavy” environments.
 
-Working in challenging contexts (legacy codebases, low documentation, and even toxic management) has forged my **resilience, independence, and drive for continuous improvement**.
+Working in challenging contexts (legacy codebases, low documentation, messy code) has forged my **resilience, independence, and drive for continuous improvement**.
 
 ## 🚀 What motivates me
 
