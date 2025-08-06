@@ -1,42 +1,29 @@
 # 👋 Hi there, I’m Elie!
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile ! Here, I document my learning journey, side projects, and continuous exploration of code quality and software architecture.
 
-## Who am I?
+## 👨‍💻 About me
 
-I'm a passionate software developer, always on a journey to learn and grow.  
-My path (including a challenging apprenticeship!) taught me resilience, autonomy, and a strong commitment to software quality. Today, I’m focused on **Domain-Driven Design** and software craftsmanship.
+I’m a backend-leaning software developer with **3 years of experience** in .NET and Node.js ecosystems.  
+As an INTJ, I thrive on strategy, autonomy, and building systems that last. My interests gravitate towards **Domain-Driven Design**, Clean Architecture, and delivering maintainable solutions, especially in complex or “legacy-heavy” environments.
 
-## What drives me
+Working in challenging contexts (legacy codebases, low documentation, and even toxic management) has forged my **resilience, independence, and drive for continuous improvement**.
 
-- **Learning:** Every experience — especially the tough ones — makes me a better developer.
-- **Sharing:** I enjoy talking about best practices, clean code, and using tech to empower people.
-- **Exploring:** Always curious about robust architectures, advanced testing, and healthy team cultures.
+## 🚀 What motivates me
 
-## What I’m looking for
+- **Crafting robust, meaningful systems**: DDD, modular architectures, test automation, functional programming, Effect-TS…
+    
+- **Learning from every challenge**: I view every project, even the messy ones as a playground for growth.
+    
+- **Documenting & sharing**: I write docs, refactor, and publish as transparently as possible to help others (and my future self).
+    
 
-- Joining a team with a real tech culture focused on continuous improvement.
-- Collaborating on meaningful, challenging projects.
-- Open to **freelancing** or entrepreneurship, in France or abroad.
+## 🔧 Tech Stack
 
-## Tech Stack
-
-- **Languages:** C# (.NET), TypeScript (Node.js), JavaScript
-- **Frameworks/Libraries:** ASP.NET Core, Node.js, Effect, React
-- **Database:** PostgreSQL
-- **Tools:** GitLab, CI/CD, unit testing, code analysis
-
-## Let’s connect
-
-- 💬 Always happy to chat about DDD, refactoring, or clean code!
-- 🌱 Open to collaboration and feedback on my projects.
-- 🌍 Available for international opportunities and remote work.
-
----
-
-👉 **Want to connect?**  
-Feel free to reach out here or on [LinkedIn](your-linkedin-link).
-
----
-
-*"You don’t become an expert overnight. Every experience counts — especially the tough ones."*
+- **Languages**: C# (.NET), TypeScript (Node.js), JavaScript
+    
+- **Frameworks**: ASP.NET Core, Node.js, React, Effect-TS
+    
+- **Databases**: PostgreSQL, SQL Server, MySQL
+    
+- **Tools**: Git, GitLab CI/CD, Docker
