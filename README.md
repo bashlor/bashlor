@@ -20,8 +20,6 @@
 
 ### 🔹 [Rapid Work Tracker](https://github.com/bashlor/Rapid-Work-Tracker)  
 
-**Role**: Backend & architecture  
-
 - Task & time tracking app – **Node.js + Adonis.js + React.js**  
 - REST API, authentication, project tracking  
 - CI/CD with GitLab  
@@ -30,8 +28,6 @@
 ---
 
 ### 🔹 [PomoTracker](https://github.com/bashlor/pomo-tracker)  
-
-**Role**: Fullstack dev  
 
 - Pomodoro productivity app – **React + Node.js**  
 - Deployed on [Live demo](https://pomotracker.elie-patrice.fr)   
