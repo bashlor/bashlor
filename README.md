@@ -8,11 +8,11 @@
 
 ## 🔧 Tech Stack
 
-- **Backend** : C#, .NET (Framework & Core), ASP.NET Core, Entity Framework, Node.js (NestJS)  
-- **Databases** : SQL Server, PostgreSQL, MySQL  
+- **Backend** : C#, .NET (Framework & Core), ASP.NET Core, Entity Framework, Node.js
+- **Databases** : SQL Server, PostgreSQL,  
 - **Frontend** : React, Vue.js  
 - **DevOps & Tools** : Git, Docker, GitLab CI/CD, GitHub Actions, Azure DevOps  
-- **Quality** : xUnit, Jest, Clean Code  
+- **Quality** : xUnit, Vitest, Clean Code  
 
 ---
 
@@ -22,10 +22,10 @@
 
 **Role**: Backend & architecture  
 
-- Task & time tracking app – **Node.js + Vue.js**  
+- Task & time tracking app – **Node.js + Adonis.js + React.js**  
 - REST API, authentication, project tracking  
 - CI/CD with GitLab  
-- Clean architecture approach, modular design  
+- Clean architecture approach, modular design 
 
 ---
 
@@ -34,6 +34,4 @@
 **Role**: Fullstack dev  
 
 - Pomodoro productivity app – **React + Node.js**  
-- Timer, task persistence, responsive UI  
-- Deployed on [Live demo](https://lien-vers-prod.com)  
-- Documented codebase, focus on maintainability  
+- Deployed on [Live demo](https://pomotracker.elie-patrice.fr)   
