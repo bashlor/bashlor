@@ -11,7 +11,7 @@
 - **Backend** : C#, .NET (Framework & Core), ASP.NET Core, Entity Framework, Node.js
 - **Databases** : SQL Server, PostgreSQL,  
 - **Frontend** : React, Vue.js  
-- **DevOps & Tools** : Git, Docker, GitLab CI/CD, GitHub Actions, Azure DevOps  
+- **DevOps & Tools** : Git, Docker, GitLab CI/CD
 - **Quality** : xUnit, Vitest, Clean Code  
 
 ---
