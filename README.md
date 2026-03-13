@@ -7,8 +7,6 @@ Currently deepening my expertise in Node.js runtime, system behavior and applica
 Interested in how software behaves in the real world:
 performance, failure modes, observability and supply chain security.
 
----
-
 ## 🔧 Core Stack
 
 **Backend**
@@ -34,8 +32,6 @@ performance, failure modes, observability and supply chain security.
 - xUnit
 - Vitest
 - Integration testing
-
----
 
 ## 🎯 Current Focus
 
