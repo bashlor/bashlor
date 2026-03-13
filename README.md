@@ -7,35 +7,39 @@ Currently deepening my expertise in Node.js runtime, system behavior and applica
 Interested in how software behaves in the real world:
 performance, failure modes, observability and supply chain security.
 
-Core stack
+---
 
-Backend
+## 🔧 Core Stack
 
-- C#, .NET / ASP.NET Core
+**Backend**
+
+- C#, .NET (Core), ASP.NET Core
 - Node.js (TypeScript)
 - REST API design
-- Clean Architecture
+- Clean Architecture / DDD principles
 
-Data
+**Data**
 
 - SQL Server
 - PostgreSQL
 
-Dev & Ops
+**DevOps**
 
 - Docker
 - CI/CD (GitLab)
 - Git
 
-Testing
+**Quality & Testing**
 
 - xUnit
 - Vitest
 - Integration testing
 
-Current focus
+---
+
+## 🎯 Current Focus
 
 - Application Security fundamentals
-- Static analysis
-- Dependency security
-- Observability & system reliability
+- Static code analysis
+- Dependency inspection & supply chain risks
+- Building developer tooling
