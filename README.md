@@ -1,45 +1,41 @@
 # 👋 Hi, I'm Elie
 
-Backend Engineer focused on **system design, API architecture and security-aware development**.
+Backend engineer with 3+ years of experience building production systems in .NET and SQL Server.
 
-3+ years of experience building production-grade systems with **.NET / SQL Server**,  
-currently deepening expertise in **Node.js runtime, static analysis and supply chain security**.
+Currently deepening my expertise in Node.js runtime, system behavior and application security.
 
-I care about:
-- Clean and maintainable architecture
-- Performance & reliability
-- Dependency security
-- Writing code that scales and survives
+Interested in how software behaves in the real world:
+performance, failure modes, observability and supply chain security.
 
----
+Core stack
 
-## 🔧 Core Stack
+Backend
 
-**Backend**
-- C#, .NET (Core), ASP.NET Core
+- C#, .NET / ASP.NET Core
 - Node.js (TypeScript)
 - REST API design
-- Clean Architecture / DDD principles
+- Clean Architecture
 
-**Data**
+Data
+
 - SQL Server
 - PostgreSQL
 
-**DevOps**
+Dev & Ops
+
 - Docker
 - CI/CD (GitLab)
 - Git
 
-**Quality & Testing**
+Testing
+
 - xUnit
 - Vitest
 - Integration testing
 
----
-
-## 🎯 Current Focus
+Current focus
 
 - Application Security fundamentals
-- Static code analysis
-- Dependency inspection & supply chain risks
-- Building developer tooling
+- Static analysis
+- Dependency security
+- Observability & system reliability
