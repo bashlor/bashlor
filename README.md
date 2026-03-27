@@ -58,9 +58,3 @@ Backend-driven application focused on cognitive retention and learning workflows
 
 🔗 Live: Coming soon  
 🔗 Repo: Coming soon  
-
----
-
-## 📫 Contact
-
-- LinkedIn: <https://www.linkedin.com/in/elie-patrice/>
