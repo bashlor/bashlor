@@ -14,8 +14,6 @@ I’m particularly interested in how backend systems behave in real-world condit
 - Exploring application security fundamentals and secure development practices  
 - Building tools and projects to better understand system behavior in production  
 
----
-
 ## 🔧 Core Stack
 
 ### Backend
@@ -42,16 +40,12 @@ I’m particularly interested in how backend systems behave in real-world condit
 - Vitest  
 - Integration testing  
 
----
-
 ## 🧠 Areas of Interest
 
 - System design & backend architecture  
 - Reliability & failure handling  
 - Observability & debugging in production  
 - Application security & supply chain risks  
-
----
 
 ## 📌 Selected Project
 
