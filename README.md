@@ -1,41 +1,72 @@
 # 👋 Hi, I'm Elie
 
-Backend engineer with 3+ years of experience building production systems in .NET and SQL Server.
+Backend Engineer focused on building reliable systems and solving real product problems.
 
-Currently deepening my expertise in Node.js runtime, system behavior and application security.
+I have 3+ years of experience working on production systems in .NET, and I’m currently expanding my expertise in Node.js, system design, and application security.
 
-Interested in how software behaves in the real world:
-performance, failure modes, observability and supply chain security.
+I’m particularly interested in how backend systems behave in real-world conditions performance, failure modes, observability, and long-term maintainability.
+
+---
+
+## 🚀 What I’m working on
+
+- Designing and deploying backend systems with a strong focus on reliability  
+- Exploring application security fundamentals and secure development practices  
+- Building tools and projects to better understand system behavior in production  
+
+---
 
 ## 🔧 Core Stack
 
-**Backend**
+### Backend
 
-- C#, .NET (Core), ASP.NET Core
-- Node.js (TypeScript)
-- REST API design
-- Clean Architecture / DDD principles
+- C#, .NET (Core), ASP.NET Core  
+- Node.js (TypeScript)  
+- REST APIs, system design  
+- Clean Architecture / DDD principles  
 
-**Data**
+### Data
 
-- SQL Server
-- PostgreSQL
+- SQL Server  
+- PostgreSQL  
 
-**DevOps**
+### DevOps
 
-- Docker
-- CI/CD (GitLab)
-- Git
+- Docker  
+- CI/CD (GitLab, GitHub Actions)  
+- Git  
 
-**Quality & Testing**
+### Quality & Testing
 
-- xUnit
-- Vitest
-- Integration testing
+- xUnit  
+- Vitest  
+- Integration testing  
 
-## 🎯 Current Focus
+---
 
-- Application Security fundamentals
-- Static code analysis
-- Dependency inspection & supply chain risks
-- Building developer tooling
+## 🧠 Areas of Interest
+
+- System design & backend architecture  
+- Reliability & failure handling  
+- Observability & debugging in production  
+- Application security & supply chain risks  
+
+---
+
+## 📌 Selected Project
+
+**Tech Learning App (WIP)**  
+Backend-driven application focused on cognitive retention and learning workflows.
+
+- Designed with a system-oriented approach (data modeling, state, sync)
+- Focus on reliability and long-term maintainability  
+- Includes CI/CD, testing strategy, and deployment pipeline  
+
+🔗 Live: Coming soon  
+🔗 Repo: Coming soon  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: <https://www.linkedin.com/in/elie-patrice/>
