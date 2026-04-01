@@ -1,60 +1,72 @@
 # 👋 Hi, I'm Elie
 
-Backend Engineer focused on building reliable systems and solving real product problems.
+Backend Engineer focused on **building reliable systems that behave correctly in production**.
 
-I have 3+ years of experience working on production systems in .NET, and I’m currently expanding my expertise in Node.js, system design, and application security.
+I have 3+ years of experience working on real-world systems in .NET, and I’m currently deepening my expertise in Node.js, system design, and application security.
 
-I’m particularly interested in how backend systems behave in real-world conditions performance, failure modes, observability, and long-term maintainability.
+I’m particularly interested in:
+
+- how systems **fail**
+- how they **scale**
+- and how to make them **predictable and maintainable over time**
 
 ---
 
 ## 🚀 What I’m working on
 
-- Designing and deploying backend systems with a strong focus on reliability  
-- Exploring application security fundamentals and secure development practices  
-- Building tools and projects to better understand system behavior in production  
+- Designing backend systems with a focus on **reliability and clarity**
+- Studying **failure modes, observability, and production behavior**
+- Exploring **application security and secure system design**
+- Building projects to **understand systems, not just ship features**
+
+---
 
 ## 🔧 Core Stack
 
 ### Backend
 
-- C#, .NET (Core), ASP.NET Core  
+- C#, .NET, ASP.NET Core  
 - Node.js (TypeScript)  
 - REST APIs, system design  
-- Clean Architecture / DDD principles  
+- Clean Architecture / DDD  
 
 ### Data
 
-- SQL Server  
 - PostgreSQL  
+- SQL Server  
 
 ### DevOps
 
 - Docker  
-- CI/CD (GitLab, GitHub Actions)  
+- CI/CD (GitHub Actions, GitLab CI)  
 - Git  
 
-### Quality & Testing
+### Testing
 
 - xUnit  
 - Vitest  
 - Integration testing  
 
-## 🧠 Areas of Interest
+---
 
-- System design & backend architecture  
+## 🧠 Focus Areas
+
+- Backend architecture & system design  
 - Reliability & failure handling  
 - Observability & debugging in production  
-- Application security & supply chain risks  
+- Application security  
+
+---
 
 ## 📌 Selected Project
 
-**Tech Learning App (WIP)**  
-Backend-driven application focused on cognitive retention and learning workflows.
+### Recall System (WIP)
 
-- Designed with a system-oriented approach (data modeling, state, sync)
-- Focus on reliability and long-term maintainability  
+Backend-driven application focused on **cognitive retention and learning workflows**.
+
+- System-oriented design (state, sync, data modeling)  
+- Focus on **long-term maintainability and reliability**  
 - Includes CI/CD, testing strategy, and deployment pipeline  
 
-🔗 Live: Coming soon  
-🔗 Repo: Coming soon  
+🔗 Live: <https://recall-system.elie-patrice.fr/>  
+🔗 Repo: <https://github.com/bashlor/recall-system>
