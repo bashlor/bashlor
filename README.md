@@ -1,55 +1,42 @@
 # 👋 Hi, I'm Elie
 
-Backend Engineer focused on building reliable systems that behave correctly in production.
+Backend Engineer focused on reliable systems, product-oriented architecture, and production-grade software.
 
-I have 3+ years of experience working on real-world systems in .NET, and I’m currently deepening my expertise in Node.js, system design, and application security.
-
-I’m particularly interested in:
-
-- how systems fail
-- how they scale
-- how to make them predictable over time
-- how technical decisions impact product quality
+Interested in:
+- distributed systems
+- backend reliability
+- system design
+- product engineering
+- human-centered software
 
 ---
 
-# 🚀 What I’m working on
+# 🚀 Systems I'm Building
 
-- Designing backend systems focused on reliability, clarity, and maintainability
-- Studying failure modes, observability, and production behavior
-- Exploring secure application design and backend security fundamentals
-- Building projects to understand systems deeply — not just ship features
+## Recall System
 
----
+Personal knowledge system focused on long-term retrieval, contextual memory, and reliable information access.
 
-# 🔧 Core Stack
+Designed as a deep exploration of:
 
-## Backend
-- C#, .NET, ASP.NET Core
-- Node.js (TypeScript)
-- REST APIs
-- Distributed systems fundamentals
-- Clean Architecture / DDD
+- information retrieval
+- memory architecture
+- local-first thinking
+- AI-assisted workflows
+- system reliability
+- offline-capable desktop/web synchronization
 
-## Data
-- PostgreSQL
-- SQL Server
-- Query design / relational modeling
+### What it explores
 
-## DevOps
-- Docker
-- CI/CD (GitHub Actions, GitLab CI)
-- Git
+- Retrieval pipeline design
+- Semantic search & contextual recall
+- Local-first architecture tradeoffs
+- Sync & consistency challenges
+- Human cognition <=> system design
+- Product-oriented backend engineering
 
-## Testing
-- xUnit
-- Vitest
-- Integration testing
-- End-to-end testing
-
----
-
-# 📌 Selected Project
+Currently in active development.
+Live : <https://recall-system.elie-patrice.fr>
 
 ## Ledger Forge
 
@@ -70,6 +57,48 @@ Production-minded accounting SaaS demo built to showcase backend engineering in 
 
 ---
 
+# 🔧 Core Stack
+
+## Backend
+
+- C#, .NET, ASP.NET Core
+- Node.js (TypeScript)
+- REST APIs
+- Distributed systems fundamentals
+- Clean Architecture / DDD
+
+## Data
+
+- PostgreSQL
+- SQL Server
+- Query design / relational modeling
+
+## DevOps
+
+- Docker
+- CI/CD (GitHub Actions, GitLab CI)
+- Git
+
+## Testing
+
+- xUnit
+- Vitest
+
+---
+
+# 🧠 Engineering Interests
+
+- Reliability engineering
+- Failure modes & observability
+- Backend architecture
+- Product thinking
+- Local-first systems
+- Distributed systems
+
+---
+
 # 📍 Current Focus
 
-Backend Engineering • Reliability • Security • System Design • Product Thinking
+I design backend systems for reliability, clarity, and maintainability, and I build projects to deepen systems understanding rather than only shipping features.
+
+Backend Engineering • Reliability • Product Thinking
